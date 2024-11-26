@@ -1,0 +1,10 @@
+<!ELEMENT BDInstrumentos (guitarra*)>
+<!ELEMENT guitarra (id_guitarra, marca, modelo, tipo, cuerdas, precio)>
+<!ELEMENT id_guitarra (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT tipo (#PCDATA)> 
+<!ELEMENT cuerdas (nylon, metal)> 
+<!ELEMENT nylon (#PCDATA)> 
+<!ELEMENT metal (#PCDATA)> 
+<!ELEMENT precio (#PCDATA)> 

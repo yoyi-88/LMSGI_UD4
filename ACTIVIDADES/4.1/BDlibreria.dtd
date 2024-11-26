@@ -1,0 +1,12 @@
+<!ELEMENT BDlibreria (libro*)>
+<!ELEMENT libro (titulo, autor, genero, editorial, isbn, fecha_publicacion)>
+<!ATTLIST libro id CDATA #REQUIRED>
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (nombre, apellido1, apellido2*, genero)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT apellido1 (#PCDATA)>
+<!ELEMENT apellido2 (#PCDATA)>
+<!ELEMENT genero (#PCDATA)>
+<!ELEMENT editorial (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT fecha_publicacion (#PCDATA)>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<BDlibreria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="BDlibreria.xsd">
+
+    <BDlibreria>
+        <libro id="1">
+            <titulo>La isla de la mujer dormida</titulo>
+            <autor>
+                <nombre>Arturo</nombre>
+                <apellido1>Pérez</apellido1>
+                <apellido2>Reverte</apellido2>
+                <genero>Masculino</genero>
+            </autor>
+            <genero>Novela</genero>
+            <editorial>Alfaguara</editorial>
+            <isbn>978-84-10299-63-4</isbn>
+            <fecha_publicacion>08-10-2024</fecha_publicacion>
+        </libro>
+
+        <libro id="2">
+            <titulo>Victoria</titulo>
+            <autor>
+                <nombre>Paloma</nombre>
+                <apellido1>Sánchez</apellido1>
+                <apellido2>Garnica</apellido2>
+                <genero>Femenino</genero>
+            </autor>
+            <genero>Novela</genero>
+            <editorial>Planeta</editorial>
+            <isbn>978-84-08-29585-3</isbn>
+            <fecha_publicacion>06-11-2024</fecha_publicacion>
+        </libro>
+
+        <libro id="3">
+            <titulo>La vegetariana</titulo>
+            <autor>
+                <nombre>Han</nombre>
+                <apellido1>Kang</apellido1>
+                <genero>Femenino</genero>
+            </autor>
+            <genero>Novela</genero>
+            <editorial>Random House</editorial>
+            <isbn>978-84-397-4389-7</isbn>
+            <fecha_publicacion>06-11-2024</fecha_publicacion>
+        </libro>
+
+        <libro id="4">
+            <titulo>S. El Barco de Teseo</titulo>
+            <autor>
+                <nombre>Abrahams</nombre>
+                <apellido1>Jeffrey</apellido1>
+                <genero>Masculino</genero>
+            </autor>
+            <genero>Novela</genero>
+            <editorial>Duomo Ediciones</editorial>
+            <isbn>9788419521491</isbn>
+            <fecha_publicacion>04/11/2024</fecha_publicacion>
+        </libro>
+
+        <libro id="5">
+            <titulo>El infinito en un junco</titulo>
+            <autor>
+                <nombre>Irene</nombre>
+                <apellido1>Vallejo</apellido1>
+                <genero>Femenino</genero>
+            </autor>
+            <genero>Ensayo</genero>
+            <editorial>Siruela</editorial>
+            <isbn>978-8417860790</isbn>
+            <fecha_publicacion>2019-09-02</fecha_publicacion>
+        </libro>
+
+        <libro id="6">
+            <titulo>Reina roja</titulo>
+            <autor>
+                <nombre>Juan</nombre>
+                <apellido1>Gómez </apellido1>
+                <apellido2>Jurado</apellido2>
+                <genero>Masculino</genero>
+            </autor>
+            <genero>Thriller</genero>
+            <editorial>Ediciones B</editorial>
+            <isbn>978-8466664417</isbn>
+            <fecha_publicacion>2018-10-08</fecha_publicacion>
+        </libro>
+
+        <libro id="7">
+            <titulo>La novia gitana</titulo>
+            <autor>
+                <nombre>Carmen</nombre>
+                <apellido1>Mola</apellido1>
+                <genero>Femenino</genero>
+            </autor>
+            <genero>Novela Negra</genero>
+            <editorial>Alfaguara</editorial>
+            <isbn>978-8420433189</isbn>
+            <fecha_publicacion>2018-05-24</fecha_publicacion>
+        </libro>
+
+        <libro id="8">
+            <titulo>Los asquerosos</titulo>
+            <autor>
+                <nombre>Santiago</nombre>
+                <apellido1>Lorenzo</apellido1>
+                <genero></genero>
+            </autor>
+            <genero>Ficción Contemporánea</genero>
+            <editorial>Blackie Books</editorial>
+            <isbn>978-8417059997</isbn>
+            <fecha_publicacion>2018-11-05</fecha_publicacion>
+        </libro>
+
+        <libro id="9">
+            <titulo>La madre de Frankenstein</titulo>
+            <autor>
+                <nombre>Almudena</nombre>
+                <apellido1>Grandes</apellido1>
+                <genero>Femenino</genero>
+            </autor>
+            <genero>Novela Histórica</genero>
+            <editorial>Tusquets Editores</editorial>
+            <isbn>978-8490667039</isbn>
+            <fecha_publicacion>2020-02-25</fecha_publicacion>
+        </libro>
+
+        <libro id="10">
+            <titulo>El campamento</titulo>
+            <autor>
+                <nombre>Blue</nombre>
+                <apellido1>Jeans</apellido1>
+                <genero>Masculino</genero>
+            </autor>
+            <genero>Juvenil</genero>
+            <editorial>Planeta</editorial>
+            <isbn>978-8408232313</isbn>
+            <fecha_publicacion>2021-03-03</fecha_publicacion>
+        </libro>
+    </BDlibreria>

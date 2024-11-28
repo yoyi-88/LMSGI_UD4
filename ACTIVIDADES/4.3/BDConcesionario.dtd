@@ -1,0 +1,10 @@
+<!ELEMENT BDConcesionario (coche*)>
+<!ELEMENT coche (codigo_de_coche, marca, modelo, matricula, potencia, plazas, numero_de_puertas)>
+<!ELEMENT codigo_de_coche (#PCDATA)>
+<!ELEMENT marca (#PCDATA)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT matricula (#PCDATA)>
+<!ELEMENT potencia (caballos)>
+<!ELEMENT caballos (#PCDATA)>
+<!ELEMENT plazas (#PCDATA)>
+<!ELEMENT numero_de_puertas (#PCDATA)>

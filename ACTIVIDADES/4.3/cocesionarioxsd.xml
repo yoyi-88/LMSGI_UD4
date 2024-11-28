@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BDConcesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:noNamespaceSchemaLocation="BDConcesionario.xsd">
+    <coche>
+        <codigo_de_coche>12345</codigo_de_coche>
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <matricula>ABC1234</matricula>
+        <potencia>
+            <caballos>120</caballos>
+        </potencia>
+        <plazas>5</plazas>
+        <numero_de_puertas>4</numero_de_puertas>
+    </coche>
+    <coche>
+        <codigo_de_coche>67890</codigo_de_coche>
+        <marca>Ford</marca>
+        <modelo>Focus</modelo>
+        <matricula>XYZ5678</matricula>
+        <potencia>
+            <caballos>150</caballos>
+        </potencia>
+        <plazas>5</plazas>
+        <numero_de_puertas>4</numero_de_puertas>
+    </coche>
+</BDConcesionario>

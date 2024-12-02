@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE BDGestoria SYSTEM "BDGestoria.dtd">
+
+<BDGestoria>
+    <Gestoria codigo="">
+        <Empleado></Empleado>
+        <Fecha></Fecha>
+        <Cliente codigo="">
+            <Descripción></Descripción>
+            <Número></Número>
+            <Vivienda id="">
+                <Coste></Coste>
+                <Resumen></Resumen>
+                <Plazo></Plazo>
+            </Vivienda>
+        </Cliente>
+    </Gestoria>
+</BDGestoria>

@@ -1,0 +1,14 @@
+<!ELEMENT BDGestoria (Gestoria*)>
+<!ELEMENT Gestoria (Empleado, Fecha, Cliente)>
+<!ATTLIST Gestoria codigo CDATA #REQUIRED>
+<!ELEMENT Empleado (#PCDATA)>
+<!ELEMENT Fecha (#PCDATA)>
+<!ELEMENT Cliente (Descripción, Número, Vivienda)>
+<!ATTLIST Cliente codigo CDATA #REQUIRED>
+<!ELEMENT Descripción (#PCDATA)>
+<!ELEMENT Número (#PCDATA)>
+<!ELEMENT Vivienda (Coste, Resumen, Plazo)>
+<!ATTLIST Vivienda id CDATA #REQUIRED>
+<!ELEMENT Coste (#PCDATA)>
+<!ELEMENT Resumen (#PCDATA)>
+<!ELEMENT Plazo (#PCDATA)>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alumnos>
+    <Alumno>
+        <NIF>75845626L</NIF>
+        <Resultado>apto</Resultado>
+        <Observaciones>Progresa adecuadamente</Observaciones>
+        <IP>325.514.18.107</IP>
+    </Alumno>
+    <Alumno>
+        <NIF>87654321B</NIF>
+        <Resultado>Problemático</Resultado>
+        <MAC>00:1j:2s:3b:4k:5n</MAC>
+    </Alumno>
+    <Alumno>
+        <NIF>54869657M</NIF>
+        <Resultado>No progresa adecuadamente</Resultado>
+        <IP>854.475.7.88</IP>
+    </Alumno>
+</Alumnos>

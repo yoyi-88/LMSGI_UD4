@@ -1,0 +1,23 @@
+{
+    "Alumnos": {
+      "Alumno": [
+        {
+          "NIF": "75845626L",
+          "Resultado": "apto",
+          "Observaciones": "Progresa adecuadamente",
+          "IP": "325.514.18.107"
+        },
+        {
+          "NIF": "87654321B",
+          "Resultado": "Problemático",
+          "MAC": "00:1j:2s:3b:4k:5n"
+        },
+        {
+          "NIF": "54869657M",
+          "Resultado": "No progresa adecuadamente",
+          "IP": "854.475.7.88"
+        }
+      ]
+    }
+  }
+  

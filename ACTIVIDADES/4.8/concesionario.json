@@ -1,0 +1,29 @@
+{
+    "BDConcesionario": {
+      "coche": [
+        {
+          "codigo_de_coche": "12345",
+          "marca": "Toyota",
+          "modelo": "Corolla",
+          "matricula": "ABC1234",
+          "potencia": {
+            "caballos": "120"
+          },
+          "plazas": "5",
+          "numero_de_puertas": "4"
+        },
+        {
+          "codigo_de_coche": "67890",
+          "marca": "Ford",
+          "modelo": "Focus",
+          "matricula": "XYZ5678",
+          "potencia": {
+            "caballos": "150"
+          },
+          "plazas": "5",
+          "numero_de_puertas": "4"
+        }
+      ]
+    }
+  }
+  

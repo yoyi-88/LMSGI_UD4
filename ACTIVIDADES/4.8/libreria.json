@@ -1,0 +1,140 @@
+{
+    "BDlibreria": {
+      "libro": [
+        {
+          "id": "1",
+          "titulo": "La isla de la mujer dormida",
+          "autor": {
+            "nombre": "Arturo",
+            "apellido1": "Pérez",
+            "apellido2": "Reverte",
+            "genero": "Masculino"
+          },
+          "genero": "Novela",
+          "editorial": "Alfaguara",
+          "isbn": "978-84-10299-63-4",
+          "fecha_publicacion": "08-10-2024"
+        },
+        {
+          "id": "2",
+          "titulo": "Victoria",
+          "autor": {
+            "nombre": "Paloma",
+            "apellido1": "Sánchez",
+            "apellido2": "Garnica",
+            "genero": "Femenino"
+          },
+          "genero": "Novela",
+          "editorial": "Planeta",
+          "isbn": "978-84-08-29585-3",
+          "fecha_publicacion": "06-11-2024"
+        },
+        {
+          "id": "3",
+          "titulo": "La vegetariana",
+          "autor": {
+            "nombre": "Han",
+            "apellido1": "Kang",
+            "genero": "Femenino"
+          },
+          "genero": "Novela",
+          "editorial": "Random House",
+          "isbn": "978-84-397-4389-7",
+          "fecha_publicacion": "06-11-2024"
+        },
+        {
+          "id": "4",
+          "titulo": "S. El Barco de Teseo",
+          "autor": {
+            "nombre": "Abrahams",
+            "apellido1": "Jeffrey",
+            "genero": "Masculino"
+          },
+          "genero": "Novela",
+          "editorial": "Duomo Ediciones",
+          "isbn": "9788419521491",
+          "fecha_publicacion": "04/11/2024"
+        },
+        {
+          "id": "5",
+          "titulo": "El infinito en un junco",
+          "autor": {
+            "nombre": "Irene",
+            "apellido1": "Vallejo",
+            "genero": "Femenino"
+          },
+          "genero": "Ensayo",
+          "editorial": "Siruela",
+          "isbn": "978-8417860790",
+          "fecha_publicacion": "2019-09-02"
+        },
+        {
+          "id": "6",
+          "titulo": "Reina roja",
+          "autor": {
+            "nombre": "Juan",
+            "apellido1": "Gómez",
+            "apellido2": "Jurado",
+            "genero": "Masculino"
+          },
+          "genero": "Thriller",
+          "editorial": "Ediciones B",
+          "isbn": "978-8466664417",
+          "fecha_publicacion": "2018-10-08"
+        },
+        {
+          "id": "7",
+          "titulo": "La novia gitana",
+          "autor": {
+            "nombre": "Carmen",
+            "apellido1": "Mola",
+            "genero": "Femenino"
+          },
+          "genero": "Novela Negra",
+          "editorial": "Alfaguara",
+          "isbn": "978-8420433189",
+          "fecha_publicacion": "2018-05-24"
+        },
+        {
+          "id": "8",
+          "titulo": "Los asquerosos",
+          "autor": {
+            "nombre": "Santiago",
+            "apellido1": "Lorenzo",
+            "genero": ""
+          },
+          "genero": "Ficción Contemporánea",
+          "editorial": "Blackie Books",
+          "isbn": "978-8417059997",
+          "fecha_publicacion": "2018-11-05"
+        },
+        {
+          "id": "9",
+          "titulo": "La madre de Frankenstein",
+          "autor": {
+            "nombre": "Almudena",
+            "apellido1": "Grandes",
+            "genero": "Femenino"
+          },
+          "genero": "Novela Histórica",
+          "editorial": "Tusquets Editores",
+          "isbn": "978-8490667039",
+          "fecha_publicacion": "2020-02-25"
+        },
+        {
+          "id": "10",
+          "titulo": "El campamento",
+          "autor": {
+            "nombre": "Blue",
+            "apellido1": "Jeans",
+            "genero": "Masculino"
+          },
+          "genero": "Juvenil",
+          "editorial": "Planeta",
+          "isbn": "978-8408232313",
+          "fecha_publicacion": "2021-03-03"
+        }
+      ]
+    }
+  }
+  

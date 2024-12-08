@@ -1,0 +1,21 @@
+{
+    "BDGestoria": {
+      "Gestoria": {
+        "codigo": "",
+        "Empleado": "",
+        "Fecha": "",
+        "Cliente": {
+          "codigo": "",
+          "Descripción": "",
+          "Número": "",
+          "Vivienda": {
+            "id": "",
+            "Coste": "",
+            "Resumen": "",
+            "Plazo": ""
+          }
+        }
+      }
+    }
+  }
+  

@@ -1,0 +1,82 @@
+{
+    "CFGS": {
+      "Modulo": [
+        {
+          "Nombre": "Sistemas Informáticos",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "Tipo": "Teórica",
+                "Descripcion": "Conceptos fundamentales de hardware y software."
+              },
+              {
+                "Tipo": "Práctica",
+                "Descripcion": "Instalación y configuración de sistemas operativos."
+              }
+            ]
+          }
+        },
+        {
+          "Nombre": "Programación",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "Tipo": "Teórica",
+                "Descripcion": "Aprendizaje básico del lenguaje"
+              },
+              {
+                "Tipo": "Práctica",
+                "Descripcion": "Programación orientada a objetos en Java."
+              }
+            ]
+          }
+        },
+        {
+          "Nombre": "Lenguaje de Marcas",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "Tipo": "Teórica",
+                "Descripcion": "Aprendizaje de lenguajes de marcado como XML y HTML."
+              },
+              {
+                "Tipo": "Práctica",
+                "Descripcion": "Creación de documentos XML y su validación mediante DTD y XSD."
+              }
+            ]
+          }
+        },
+        {
+          "Nombre": "Entornos de Desarrollo",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "Tipo": "Teórica",
+                "Descripcion": "Herramientas de desarrollo de software."
+              },
+              {
+                "Tipo": "Práctica",
+                "Descripcion": "Uso de IDEs."
+              }
+            ]
+          }
+        },
+        {
+          "Nombre": "Bases de Datos",
+          "Contenidos": {
+            "UnidadDidactica": [
+              {
+                "Tipo": "Teórica",
+                "Descripcion": "Diseño de bases de datos relacionales."
+              },
+              {
+                "Tipo": "Práctica",
+                "Descripcion": "Uso de SQL."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+  

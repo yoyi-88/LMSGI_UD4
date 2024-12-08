@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CFGS>
+    <Modulo>
+        <Nombre>Sistemas Informáticos</Nombre>
+        <Contenidos>
+            <UnidadDidactica>
+                <Tipo>Teórica</Tipo>
+                <Descripcion>Conceptos fundamentales de hardware y software.</Descripcion>
+            </UnidadDidactica>
+            <UnidadDidactica>
+                <Tipo>Práctica</Tipo>
+                <Descripcion>Instalación y configuración de sistemas operativos.</Descripcion>
+            </UnidadDidactica>
+        </Contenidos>
+    </Modulo>
+    <Modulo>
+        <Nombre>Programación</Nombre>
+        <Contenidos>
+            <UnidadDidactica>
+                <Tipo>Teórica</Tipo>
+                <Descripcion>Aprendizaje básico del lenguaje</Descripcion>
+            </UnidadDidactica>
+            <UnidadDidactica>
+                <Tipo>Práctica</Tipo>
+                <Descripcion>Programación orientada a objetos en Java.</Descripcion>
+            </UnidadDidactica>
+        </Contenidos>
+    </Modulo>
+    <Modulo>
+        <Nombre>Lenguaje de Marcas</Nombre>
+        <Contenidos>
+            <UnidadDidactica>
+                <Tipo>Teórica</Tipo>
+                <Descripcion>Aprendizaje de lenguajes de marcado como XML y HTML.</Descripcion>
+            </UnidadDidactica>
+            <UnidadDidactica>
+                <Tipo>Práctica</Tipo>
+                <Descripcion>Creación de documentos XML y su validación mediante DTD y XSD.</Descripcion>
+            </UnidadDidactica>
+        </Contenidos>
+    </Modulo>
+    <Modulo>
+        <Nombre>Entornos de Desarrollo</Nombre>
+        <Contenidos>
+            <UnidadDidactica>
+                <Tipo>Teórica</Tipo>
+                <Descripcion>Herramientas de desarrollo de software.</Descripcion>
+            </UnidadDidactica>
+            <UnidadDidactica>
+                <Tipo>Práctica</Tipo>
+                <Descripcion>Uso de IDEs.</Descripcion>
+            </UnidadDidactica>
+        </Contenidos>
+    </Modulo>
+    <Modulo>
+        <Nombre>Bases de Datos</Nombre>
+        <Contenidos>
+            <UnidadDidactica>
+                <Tipo>Teórica</Tipo>
+                <Descripcion>Diseño de bases de datos relacionales.</Descripcion>
+            </UnidadDidactica>
+            <UnidadDidactica>
+                <Tipo>Práctica</Tipo>
+                <Descripcion>Uso de SQL.</Descripcion>
+            </UnidadDidactica>
+        </Contenidos>
+    </Modulo>
+</CFGS>
